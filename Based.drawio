@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T21:05:08.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.1" etag="8J6-myKnsK7QdaZjudln" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T22:00:11.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="IuGWF1vYVWwGsTRAQDfV" version="24.7.1" type="github">
   <diagram name="Page-1" id="7O94DDtYt-fZ5HtKoNiX">
-    <mxGraphModel>
+    <mxGraphModel dx="1428" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-1" value="1 бит" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-2" value="Вентиль" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-3" value="* n =" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-4" value="* n =" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-5" value="Транзистор" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-6" value="Регистр" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-7" value="* 16/32/64 =" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-14" value="Тракт данных" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-15" value="* 8/32 =" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-16" value="Вентиль" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-17" value="* n =" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="330" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-18" value="Транзистор" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-19" value="* n =" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-20" value="АЛУ (арифметико-логическое устройство)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-21" value="Память" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-27" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="495" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-28" value="=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="495" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
