@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T22:00:11.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="IuGWF1vYVWwGsTRAQDfV" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T07:21:03.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="Kbv2A33tUGuAgD3Uvv3n" version="24.7.1" type="github">
   <diagram name="Page-1" id="7O94DDtYt-fZ5HtKoNiX">
     <mxGraphModel dx="1428" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,102 @@
         </mxCell>
         <mxCell id="c4eYe9vjukFLXcwha6Wc-28" value="=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="495" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c4eYe9vjukFLXcwha6Wc-29" target="c4eYe9vjukFLXcwha6Wc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-29" value="Уровень языка прикладных программистов" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c4eYe9vjukFLXcwha6Wc-30" target="c4eYe9vjukFLXcwha6Wc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-30" value="Уровень ассемблера" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="160" width="239" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c4eYe9vjukFLXcwha6Wc-31" target="c4eYe9vjukFLXcwha6Wc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-31" value="Уровень операционной системы" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="280" width="239" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c4eYe9vjukFLXcwha6Wc-32" target="c4eYe9vjukFLXcwha6Wc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-32" value="Уровень архитектуры набора команд" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="400" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c4eYe9vjukFLXcwha6Wc-33" target="c4eYe9vjukFLXcwha6Wc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-33" value="Уровень микроархитектуры" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="520" width="239" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c4eYe9vjukFLXcwha6Wc-34" target="c4eYe9vjukFLXcwha6Wc-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-34" value="Цифровой логический уровень" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="640" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-35" value="Уровень 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-38" value="Уровень 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-39" value="Уровень 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-40" value="Уровень 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-41" value="Уровень 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-42" value="Уровень 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-48" value="Трансляция (компилятор)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-49" value="Трансляция (ассемблер)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-50" value="Частичная интерпретация (операционная система)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="360" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-51" value="Интерпретация (микропрограмма)&amp;nbsp;&lt;div&gt;или непосредственное выполнение&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="470" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-52" value="Аппаратное обеспечение" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="600" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-53" value="C, C++, Java, Perl, Python, PHP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="55" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-54" value="Assembly" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="175" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-55" value="Linux, Mac OS, Windows" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="295" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-56" value="Набор команд процессора" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="415" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-57" value="Реализация команд процессора" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="540" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-58" value="Функции И, ИЛИ, НЕ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="655" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-59" value="Уровень физических устройств" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="760" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-60" value="Уровень -1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4eYe9vjukFLXcwha6Wc-62" value="Транзисторы, реализация функций И, ИЛИ, НЕ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="775" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
