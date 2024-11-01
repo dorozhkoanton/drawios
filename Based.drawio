@@ -222,19 +222,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-2" value="Конкурентность" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-3" value="Параллельная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-5" value="Невытесняющая" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-8" value="Вытесняющая" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-10" value="Кооперативная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-12" value="Последовательная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
