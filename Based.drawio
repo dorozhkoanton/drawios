@@ -212,37 +212,31 @@
         <mxCell id="ZPktbo5DozfrPrd-T5rH-1" value="Многозадачность" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZPktbo5DozfrPrd-T5rH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZPktbo5DozfrPrd-T5rH-2" target="ZPktbo5DozfrPrd-T5rH-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZPktbo5DozfrPrd-T5rH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZPktbo5DozfrPrd-T5rH-2" target="ZPktbo5DozfrPrd-T5rH-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZPktbo5DozfrPrd-T5rH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZPktbo5DozfrPrd-T5rH-2" target="ZPktbo5DozfrPrd-T5rH-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZPktbo5DozfrPrd-T5rH-2" value="Конкурентность" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-3" value="Параллельная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-5" value="Невытесняющая" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-8" value="Вытесняющая" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-10" value="Кооперативная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZPktbo5DozfrPrd-T5rH-12" value="Последовательная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZPktbo5DozfrPrd-T5rH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZPktbo5DozfrPrd-T5rH-16" target="ZPktbo5DozfrPrd-T5rH-2">
+        <mxCell id="ZPktbo5DozfrPrd-T5rH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZPktbo5DozfrPrd-T5rH-16" target="ZPktbo5DozfrPrd-T5rH-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZPktbo5DozfrPrd-T5rH-16" value="Псевдопараллельная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZPktbo5DozfrPrd-T5rH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZPktbo5DozfrPrd-T5rH-16" target="ZPktbo5DozfrPrd-T5rH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPktbo5DozfrPrd-T5rH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZPktbo5DozfrPrd-T5rH-16" target="ZPktbo5DozfrPrd-T5rH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPktbo5DozfrPrd-T5rH-16" value="Псевдопараллельная&lt;div&gt;(Конкурентность)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
