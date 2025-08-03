@@ -115,10 +115,7 @@
         <mxCell id="uxIInI1BP3H_R5pay8OA-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uxIInI1BP3H_R5pay8OA-38" target="uxIInI1BP3H_R5pay8OA-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uxIInI1BP3H_R5pay8OA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uxIInI1BP3H_R5pay8OA-38" target="uxIInI1BP3H_R5pay8OA-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uxIInI1BP3H_R5pay8OA-38" value="&lt;span style=&quot;white-space-collapse: preserve;&quot; data-src-align=&quot;0:9&quot; class=&quot;aNeGP0gI0B9AV8JaHPyH&quot;&gt;Primitives&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uxIInI1BP3H_R5pay8OA-38" value="&lt;span style=&quot;white-space-collapse: preserve;&quot; data-src-align=&quot;0:9&quot; class=&quot;aNeGP0gI0B9AV8JaHPyH&quot;&gt;Copy Types&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uxIInI1BP3H_R5pay8OA-43" value="&lt;b&gt;isize&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -137,7 +134,7 @@
           <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uxIInI1BP3H_R5pay8OA-53" value="Unit Type - &lt;b&gt;()&lt;/b&gt;&lt;div&gt;&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Пустой кортеж, представляющий отсутствие значения, и&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;спользуется как возвращаемое значение функций, которые ничего не возвращают.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="480" width="240" height="120" as="geometry" />
+          <mxGeometry x="1070" y="480" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
