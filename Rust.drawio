@@ -28,8 +28,8 @@
         <mxCell id="uxIInI1BP3H_R5pay8OA-3" value="Floats" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uxIInI1BP3H_R5pay8OA-4" value="&lt;b&gt;bool&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="uxIInI1BP3H_R5pay8OA-4" value="&lt;b&gt;bool&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1 byte&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uxIInI1BP3H_R5pay8OA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uxIInI1BP3H_R5pay8OA-8" target="uxIInI1BP3H_R5pay8OA-12">
           <mxGeometry relative="1" as="geometry" />
@@ -118,11 +118,11 @@
         <mxCell id="uxIInI1BP3H_R5pay8OA-38" value="&lt;span style=&quot;white-space-collapse: preserve;&quot; data-src-align=&quot;0:9&quot; class=&quot;aNeGP0gI0B9AV8JaHPyH&quot;&gt;Copy Types&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uxIInI1BP3H_R5pay8OA-43" value="&lt;b&gt;isize&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="1220" width="120" height="60" as="geometry" />
+        <mxCell id="uxIInI1BP3H_R5pay8OA-43" value="&lt;b&gt;isize&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;размер зависит от архитектуры процессора&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1220" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uxIInI1BP3H_R5pay8OA-44" value="&lt;b&gt;usize&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1220" width="120" height="60" as="geometry" />
+        <mxCell id="uxIInI1BP3H_R5pay8OA-44" value="&lt;b&gt;usize&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;размер зависит от архитектуры процессора&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1220" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uxIInI1BP3H_R5pay8OA-47" value="&lt;b&gt;f32&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
@@ -130,8 +130,8 @@
         <mxCell id="uxIInI1BP3H_R5pay8OA-48" value="&lt;b&gt;f64&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uxIInI1BP3H_R5pay8OA-51" value="&lt;b&gt;char&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="uxIInI1BP3H_R5pay8OA-51" value="&lt;b&gt;char&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4 bytes&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uxIInI1BP3H_R5pay8OA-53" value="Unit Type - &lt;b&gt;()&lt;/b&gt;&lt;div&gt;&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Пустой кортеж, представляющий отсутствие значения, и&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;спользуется как возвращаемое значение функций, которые ничего не возвращают.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="480" width="240" height="120" as="geometry" />
